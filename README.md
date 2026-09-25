@@ -31,6 +31,7 @@ Laravel, Routes, Controller, Model, Blade Views, SQLite
 
 ## Screenshots
    <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/7cdbbf29-7fed-43a5-ab08-cc77c1289b6e" />
+   <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/ef0f04dd-b1f4-45be-aff3-174572fbb9a1" />
 
 
 

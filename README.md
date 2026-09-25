@@ -30,4 +30,5 @@ Laravel, Routes, Controller, Model, Blade Views, SQLite
 5. `php artisan serve` and open the forwarded URL
 
 ## Screenshots
-   ![Task List View](https://github.com/user-attachments/assets/xxxxxxxx)
+   <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/1da34ed5-82a1-4eda-8ae2-bd6208f5ca1c" />
+

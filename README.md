@@ -30,4 +30,4 @@ Laravel, Routes, Controller, Model, Blade Views, SQLite
 5. `php artisan serve` and open the forwarded URL
 
 ## Screenshots
-(Add screenshots of your app here.)
+   ![Task List View](https://github.com/user-attachments/assets/xxxxxxxx)

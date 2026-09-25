@@ -30,5 +30,6 @@ Laravel, Routes, Controller, Model, Blade Views, SQLite
 5. `php artisan serve` and open the forwarded URL
 
 ## Screenshots
-   <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/1da34ed5-82a1-4eda-8ae2-bd6208f5ca1c" />
+   <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/e564ad16-89df-43ba-a583-3c48d8e70845" />
+
 
